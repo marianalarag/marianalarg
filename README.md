@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src= "https://raw.githubusercontent.com/marianalarag/marianalarag/output/snake.svg" alt="Snake animation" />
+<img src= "https://github.com/marianalarag/marianalarg/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
