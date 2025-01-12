@@ -31,9 +31,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/marianalarag/marianalarg/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
