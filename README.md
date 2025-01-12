@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/marianalarag/marianalarag/output/Snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marianalarag/marianalarag/output/snake.svg" alt="Snake animation" />
 
 ###
